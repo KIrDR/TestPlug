@@ -1,0 +1,38 @@
+<test-run>
+  <test-case project="ABAP4\ABAP4\Ispirer\Parser\Statements" name="add_corresponding.abap" status="Passed" time="25" />
+  <test-case project="ABAP4\ABAP4\Ispirer\Parser\Statements" name="add_statement.abap" status="Passed" time="25" />
+  <test-case project="ABAP4\ABAP4\Ispirer\Parser\Statements" name="add_statement2.abap" status="Passed" time="25" />
+  <test-case project="ABAP4\ABAP4\Ispirer\Parser\Statements" name="append_statement.abap" status="Passed" time="25" />
+  <test-case project="ABAP4\ABAP4\Ispirer\Parser\Statements" name="assign_opts.abap" status="Passed" time="25" />
+  <test-case project="ABAP4\ABAP4\Ispirer\Parser\Statements" name="assign_statement.abap" status="Passed" time="25" />
+  <test-case project="ABAP4\ABAP4\Ispirer\Parser\Statements" name="assign_table.abap" status="Passed" time="25" />
+  <test-case project="ABAP4\ABAP4\Ispirer\Parser\Statements" name="at_line_selection.abap" status="Passed" time="25" />
+  <test-case project="ABAP4\ABAP4\Ispirer\Parser\Statements" name="at_statement.abap" status="Passed" time="25" />
+  <test-case project="ABAP4\ABAP4\Ispirer\Parser\Statements" name="authority_check.abap" status="Passed" time="25" />
+  <test-case project="ABAP4\ABAP4\Ispirer\Parser\Statements" name="back_statement.abap" status="Passed" time="25" />
+  <test-case project="ABAP4\ABAP4\Ispirer\Parser\Statements" name="break_point.abap" status="Passed" time="25" />
+  <test-case project="ABAP4\ABAP4\Ispirer\Parser\Statements" name="call_customer_function.abap" status="Passed" time="25" />
+  <test-case project="ABAP4\ABAP4\Ispirer\Parser\Statements" name="call_function_background.abap" status="Passed" time="25" />
+  <test-case project="ABAP4\ABAP4\Ispirer\Parser\Statements" name="call_function_starting_task.abap" status="Passed" time="25" />
+  <test-case project="ABAP4\ABAP4\Ispirer\Parser\Statements" name="call_function_statement.abap" status="Passed" time="25" />
+  <test-case project="ABAP4\ABAP4\Ispirer\Parser\Statements" name="call_function_update_task.abap" status="Passed" time="25" />
+  <test-case project="ABAP4\ABAP4\Ispirer\Parser\Statements" name="case_statement.abap" status="Passed" time="25" />
+  <test-case project="ABAP4\ABAP4\Ispirer\Parser\Statements" name="check_statement.abap" status="Passed" time="25" />
+  <test-case project="ABAP4\ABAP4\Ispirer\Parser\Statements" name="clear_statement.abap" status="Passed" time="25" />
+  <test-case project="ABAP4\ABAP4\Ispirer\Parser\Statements" name="close_statement.abap" status="Passed" time="25" />
+  <test-case project="ABAP4\ABAP4\Ispirer\Parser\Statements" name="collect_statement.abap" status="Passed" time="25" />
+  <test-case project="ABAP4\ABAP4\Ispirer\Parser\Statements" name="commit_statement.abap" status="Passed" time="25" />
+  <test-case project="Adaptive Server Anywhere\MSSQLServer\SoftehPlus\addition_trigger" name="swt_div_and_dupl_trigger_on_insert.sql" status="Passed" time="123" />
+  <test-case project="Adaptive Server Anywhere\MSSQLServer\SoftehPlus\addition_trigger" name="swt_div_and_dupl_trigger_on_update.sql" status="Passed" time="123" />
+  <test-case project="Adaptive Server Anywhere\MSSQLServer\SoftehPlus\aliases_in_groupby_fixes_with_conn" name="query1.sql" status="Skipped" time="0" />
+  <test-case project="Adaptive Server Anywhere\MSSQLServer\SoftehPlus\aliases_with_connect" name="query1.sql" status="Failed" time="810" />
+  <test-case project="Adaptive Server Anywhere\MSSQLServer\SoftehPlus\base64_coding" name="base64_code.sql" status="Passed" time="542" />
+  <test-case project="Adaptive Server Anywhere\MSSQLServer\SoftehPlus\divide_trigger" name="after_delete_div.sql" status="Passed" time="134" />
+  <test-case project="Adaptive Server Anywhere\MSSQLServer\SoftehPlus\divide_trigger" name="after_ins_and_del_div.sql" status="Passed" time="134" />
+  <test-case project="Adaptive Server Anywhere\MSSQLServer\SoftehPlus\divide_trigger" name="after_insert_div.sql" status="Passed" time="134" />
+  <test-case project="Adaptive Server Anywhere\MSSQLServer\SoftehPlus\divide_trigger" name="import_data" status="Passed" time="134" />
+  <test-case project="Adaptive Server Anywhere\MSSQLServer\SoftehPlus\divide_trigger" name="swt_tab_for_divide_on_delete.sql" status="Passed" time="134" />
+  <test-case project="Adaptive Server Anywhere\MSSQLServer\SoftehPlus\divide_trigger" name="swt_tab_for_divide_on_insert.sql" status="Passed" time="134" />
+  <test-case project="Adaptive Server Anywhere\MSSQLServer\SoftehPlus\duplicate_trigger" name="after_delete_dup.sql" status="Passed" time="128" />
+  <test-case project="Adaptive Server Anywhere\MSSQLServer\SoftehPlus\duplicate_trigger" name="after_ins_and_del_dup.sql" status="Passed" time="128" />
+</test-run>
